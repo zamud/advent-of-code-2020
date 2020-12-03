@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,wCAAZ","file":"index.js","sourceRoot":"..\\src","sourcesContent":["console.log(\"Welcome to Rick's 2020 Advent of Code!\")"]}
