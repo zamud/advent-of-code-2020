@@ -1,4 +1,3 @@
-import lineReaderSync from 'line-reader-sync';
 import LineReaderSync from 'line-reader-sync';
 
 const buildStrPassports = (strInput) => {
@@ -99,5 +98,3 @@ export const countValidPassports = (inputFile) => {
 
     return numValid;
 }
-
-export default {countValidPassports}

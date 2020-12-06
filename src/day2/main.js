@@ -61,5 +61,3 @@ export const countValidTobogganPasswords = (inputFile) => {
 
     return numValid;
 }
-
-export default {countValidSledPasswords, countValidTobogganPasswords}

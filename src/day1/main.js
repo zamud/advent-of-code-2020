@@ -40,5 +40,3 @@ export const threeSum2020Product = (inputFile) => {
         }
     }
 }
-
-export default {twoSum2020Product, threeSum2020Product}

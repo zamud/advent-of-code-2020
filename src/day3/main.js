@@ -16,6 +16,3 @@ export const howManyTrees = (inputFile, numOver, numDown) => {
 
     return numTrees;
 }
-
-export default {howManyTrees};
-
