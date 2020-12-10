@@ -1,11 +1,12 @@
-import {twoSum2020Product, threeSum2020Product} from './day01/main.js';
-import {countValidSledPasswords, countValidTobogganPasswords} from './day02/main.js'
-import {howManyTrees} from './day03/main.js'
-import {countValidPassports} from './day04/main.js'
-import {highestSeatID,findEmptySeat} from './day05/main.js'
-import {sumUniqueDeclarations, sumUnanimousDeclarations} from './day06/main.js'
-import {countBagColor, countTotalBags} from './day07/main.js'
-import {accBeforeLoop, accWithoutLoop} from './day08/main.js'
+import { twoSum2020Product, threeSum2020Product } from './day01/main.js';
+import { countValidSledPasswords, countValidTobogganPasswords } from './day02/main.js'
+import { howManyTrees } from './day03/main.js'
+import { countValidPassports }  from './day04/main.js'
+import { highestSeatID,findEmptySeat } from './day05/main.js'
+import { sumUniqueDeclarations, sumUnanimousDeclarations } from './day06/main.js'
+import { countBagColor, countTotalBags } from './day07/main.js'
+import { accBeforeLoop, accWithoutLoop } from './day08/main.js'
+import { crackTheCode, findFirstInvalid } from './day09/main.js';
 
 console.log("**************************************")
 console.log("Welcome to Rick's 2020 Advent of Code!")
@@ -44,8 +45,10 @@ console.log("**************************************")
 
 // DAY 8
 // console.log(accBeforeLoop('../resources/day08/input.txt'));
-console.log(accWithoutLoop('../resources/day08/input.txt'));
+// console.log(accWithoutLoop('../resources/day08/input.txt'));
 
 // DAY 9
+// console.log(findFirstInvalid('../resources/day09/input.txt', 25));
+console.log(crackTheCode('../resources/day09/input.txt', 25));
 
 // DAY 10
